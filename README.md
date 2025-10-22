@@ -43,6 +43,7 @@ Change django security variables:
 # Security
 #############################################
 DJANGO_SECRET_KEY=YOUR_DJANGO_SECRET_KEY
+DJANGO_COOKIE_DOMAIN=*.vercel.app
 ```
 
 After all done, run migrate command:
