@@ -15,16 +15,14 @@ export function About() {
         <AppLogo className="text-primary size-10" />
         <div className="mx-auto mt-8 flex max-w-md flex-col gap-4">
           <p>
-            Triplog prototype was conceptualized and developed specifically for
-            the <b>Spotter AI</b> hiring team. It serves as a tangible
-            demonstration of my skills in product thinking, and user-centric
-            design, created expressly for this application process.
+            Triplog is a prototype application built to streamline how drivers
+            record and manage their trips. It features automated route tracking,
+            mileage insights, and trip summaries designed for clarity and ease
+            of use. The project highlights my approach to thoughtful product
+            design, combining practical functionality with a strong focus on
+            user experience.
           </p>
-          <p>
-            Thank you for your time and for the opportunity to share my work, I
-            greatly appreciate the chance to be considered for a role on your
-            team.
-          </p>
+          <p>Thank you for taking the time to explore this project.</p>
         </div>
         <div className="mt-24">
           <div className="text-muted-foreground text-sm">Regards</div>
